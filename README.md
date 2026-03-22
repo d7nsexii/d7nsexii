@@ -32,5 +32,5 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github.com/d7nsexii/dev-log" alt="GitHub Stats" />
+  src="https://github.com/d7nsexii/dev-log" alt="D7NSEXII's Dev log" />
 </p>
